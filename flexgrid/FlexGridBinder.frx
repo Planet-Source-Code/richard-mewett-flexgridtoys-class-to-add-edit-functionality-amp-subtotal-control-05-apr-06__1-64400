@@ -1,0 +1,12 @@
+ÿðYou can Toggle Edit mode by pressing Enter
+
+You can set how the Mouse controls Edits 
+with the EditOnMouse property - see example 
+on the Contacts Grid below.
+
+Note the "Size" column is not Editable for non-string Columns on the Database Table Grid. This is not a bug - see the RequestEdit Event for detail!
+
+This Class is not intended as a substitute for a 
+complex Editable grid! It is designed to add 
+simple edit functionality for FlexGrid based 
+applications in a reuseable way.

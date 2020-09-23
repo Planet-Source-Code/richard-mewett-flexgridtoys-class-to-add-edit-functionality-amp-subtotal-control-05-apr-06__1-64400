@@ -1,0 +1,4 @@
+ÿThis Control displays subtotals for any number of Columns in a FlexGrid. It has one simple Method - 
+.Recalculate - to update the column totals when you change something in the Grid.
+
+I created this for fun as much as anything else but perhaps it might be useful for someone! :)
